@@ -20,3 +20,8 @@ def  subs_key() -> InlineKeyboardMarkup:
     )
     builder.adjust(1)
     return builder.as_markup()
+def admin_key():
+    builder = ReplyKeyboardBuilder()
+    builder.add(KeyboardButton(text="💬 Xabar yuborish"))
+    builder.adjust(1)
+    return builder.as_markup(resize_keyboard=True)
