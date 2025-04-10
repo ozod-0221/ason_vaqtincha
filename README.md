@@ -1,0 +1,2 @@
+# ason_vaqtincha
+vaqtinchalik
