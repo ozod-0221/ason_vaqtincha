@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "event_name": "test1",
+        "event_description": "nimadur",
+        "event_link_end": "https://t.me/multilevelcentre/865",
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "event_name": "test2",
+        "event_description": "nimadur2",
+        "event_link_end": "https://t.me/GRYTROBOT?start=Test5",
+        "is_active": false
+    },
+    {
+        "id": 3,
+        "event_name": "Test4",
+        "event_description": "Nimadur  4",
+        "event_link_end": "https://t.me/Multilevel_Centre_events_bot?start=jonli",
+        "is_active": false
+    }
+]

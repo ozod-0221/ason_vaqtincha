@@ -1,0 +1,26 @@
+[
+    {
+        "id": 10,
+        "event_name": "test2",
+        "user_id": 7972764812,
+        "joined_at": "2025-04-11 06:51:16"
+    },
+    {
+        "id": 2,
+        "event_name": "test1",
+        "user_id": 6205976061,
+        "joined_at": "2025-04-11 07:11:46"
+    },
+    {
+        "id": 3,
+        "event_name": "test2",
+        "user_id": 6205976061,
+        "joined_at": "2025-04-11 07:12:08"
+    },
+    {
+        "id": 4,
+        "event_name": "Test4",
+        "user_id": 6205976061,
+        "joined_at": "2025-04-11 07:12:21"
+    }
+]
